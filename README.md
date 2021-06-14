@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nevyle, I love technology, especially open source, Ubuntu and Pop!Os are the best distros for me!
+- 👀 I’m interested in Design and Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python bots for Discord
+- 📫 An easier way to talk to me is probably discord: marbs#5065
