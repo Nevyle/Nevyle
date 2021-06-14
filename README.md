@@ -22,4 +22,4 @@
 
 #### I will soon record videos explaining how to create a bot in discord in a simple way, but you will have to study the discord API yourself, what I will explain is how to start this beautiful journey in the right way!
 
-![GitHub Logo](https://i.imgur.com/mddZU4O.png)
+![https://i.imgur.com/VMMCgW6.png)
