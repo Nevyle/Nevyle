@@ -12,12 +12,9 @@
 
 ###
 
-<br clear="both">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&custom_title=Meu+GitHub&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true&username=nevyle)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true&username=nevyle" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=11&theme=vision-friendly-dark&hide_border=true&username=nevyle" height="141" alt="languages graph"  />
-</div>
+[![Repositório destaque 1](https://github-readme-stats.vercel.app/api/pin/?username=nevyle&hide_border=true&theme=vision-friendly-dark&repo=xmodmap)](https://github.com/nevyle/xmodmap)
 
 ###
 
