@@ -8,7 +8,7 @@
 
 ###
 
-<p align="right">Meu nome é Flavio de Barros.<br><br>Sou completamente apaixonado por tecnologia e atualmente trabalho como T.I no Novo Atacarejo</p>
+<p align="center">Meu nome é Flavio de Barros.<br><br>Sou completamente apaixonado por tecnologia e atualmente trabalho como T.I no Novo Atacarejo</p>
 
 ###
 
