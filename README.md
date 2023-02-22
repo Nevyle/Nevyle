@@ -1,18 +1,4 @@
-<br clear="both">
-
-<h2 align="left">SOBRE MIM</h2>
-
-###
-
-<img align="right" height="200" src="https://i.imgur.com/H0a9Blm.png"  />
-
-###
-
 ![img1](https://i.imgur.com/OoG70YE.png)
-
-<p align="center">Meu nome é Flavio de Barros.<br><br>Sou completamente apaixonado por tecnologia e atualmente trabalho como T.I no Novo Atacarejo</p>
-
-###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&custom_title=Meu+GitHub&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=true&username=nevyle)
 
