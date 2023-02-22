@@ -1,5 +1,4 @@
-![img1](https://i.imgur.com/OoG70YE.png)
-
+![img1](https://github.com/Nevyle/Nevyle/blob/main/art1.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;custom_title=Meu+GitHub&amp;disable_animations=false&amp;theme=vision-friendly-dark&amp;locale=pt-br&amp;hide_border=true&amp;username=nevyle"  width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default&card_width=320&langs_count=11&theme=vision-friendly-dark&hide_border=true&username=nevyle"  width="10%"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default&card_width=320&langs_count=11&theme=vision-friendly-dark&hide_border=true&username=nevyle"  width="45%">
 
