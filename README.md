@@ -8,16 +8,16 @@
   
   <img src="https://github.com/Nevyle/Nevyle/blob/main/1%20fedora.svg" width="55" alt="Fedora Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/2%20ubuntu.svg" width="55" alt="Ubuntu Logo" />
-  <img src="https://github.com/Nevyle/Nevyle/blob/main/3%20git.svg" width="55" alt="Git Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/4%20bash.svg" width="55" alt="Bash Logo" />
+  <img src="https://github.com/Nevyle/Nevyle/blob/main/3%20git.svg" width="55" alt="Git Logo" />
+  <img src="https://github.com/Nevyle/Nevyle/blob/main/7%20javascript.svg" width="55" alt="Javascript Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/5%20html.svg" width="55" alt="Html Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/6%20css.svg" width="55" alt="Css Logo" />
-  <img src="https://github.com/Nevyle/Nevyle/blob/main/7%20javascript.svg" width="55" alt="Javascript Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/8%20typescript.svg" width="55" alt="Typescript Logo" />
-  <img src="https://github.com/Nevyle/Nevyle/blob/main/9%20react.svg" width="55" alt="React Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/10%20node.svg" width="55" alt="Node Logo" />
-  <img src="https://github.com/Nevyle/Nevyle/blob/main/11%20vue.svg" width="55" alt="Vue Logo" />
+  <img src="https://github.com/Nevyle/Nevyle/blob/main/9%20react.svg" width="55" alt="React Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/12%20electron.svg" width="55" alt="Electron Logo" />
+  <img src="https://github.com/Nevyle/Nevyle/blob/main/11%20vue.svg" width="55" alt="Vue Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/13%20dart.svg" width="55" alt="Dart Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/14%20flutter.svg" width="55" alt="Flutter Logo" />
   <img src="https://github.com/Nevyle/Nevyle/blob/main/16%20postgre.svg" width="55" alt="Postgre Logo" />
